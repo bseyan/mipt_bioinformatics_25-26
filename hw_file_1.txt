@@ -1,0 +1,94 @@
+123
+/home/seyan
+├── Bioinformatics_2025
+│   └── hw
+│       └── hw_1
+│           └── hw_file_1.txt
+├── bioinformatic
+│   └── Seminar 1
+│       ├── -h
+│       ├── hello.txt
+│       └── help
+├── cat
+├── homework
+└── snap
+    └── tree
+        ├── 54
+        ├── common
+        └── current -> 54
+
+12 directories, 5 files
+    1  cat
+    2  ls
+    3  ls.
+    4  ls
+    5  cd
+    6  ls
+    7  cd~
+    8  cd ~
+    9  ls
+   10  cat
+   11  pwd
+   12  ls -h
+   13  ls - h
+   14  ls -- hlep
+   15  ls -- help
+   16  pwd
+   17  tree
+   18  ls
+   19  ls -a
+   20  vim
+   21  .ssh
+   22  pwd
+   23  mkdir Seminar 1
+   24  pwd
+   25  mkdir "Seminar 1"
+   26  pwd
+   27  cd /home/seyan/Seminar 1
+   28  cd ~/home/seyan/Seminar 1
+   29  pwd
+   30  ls
+   31  cd /home/seyan/Seminar 1
+   32  ls
+   33  Seminar 1
+   34  cd /home/seyan/"Seminar 1"
+   35  touch "Hello world"
+   36  ls
+   37  less 'Hello world'
+   38  pwd
+   39  > -h
+   40  >> help
+   41  echo "Hello World" | cat > hello.txt
+   42  зцв
+   43  pwd
+   44  ls
+   45  vim
+   46  ls
+   47  mkdir bioinformatic
+   48  ls
+   49  cp "Seminar 1" bioinformatic
+   50  cp -r "Seminar 1" bioinformatic 
+   51  ls
+   52  rm -r "Seminar 1"
+   53  ls
+   54  ssh vbogomolov@ALDAN3.ITM-RSMU.RU 
+   55  ssh vbogomolov@ALDAN3.ITM-RSMU.RU
+   56  ssh vbogomolov@frontend.aldan3.itm-rsmu.ru
+   57  ssh vbogomolov@frontend.aldan3.itm-rsmu.ru 
+   58  ssh vbogomolov@frontend.aldan3.itm-rsmu.ru
+   59  cd
+   60  ssh vbogomolov@frontend.aldan3.itm-rsmu.ru
+   61  ssh vbogomolov@frontend.aldan3.itm-rsmu.ru 
+   62  ls
+   63  mkdir -p ~/Bioinformatics_2025/hw/hw_1/ 
+   64  cd ~/Bioinformatics_2025/hw/hw_1/
+   65  touch my_hw_file.txt
+   66  echo "123" > my_hw_file.txt
+   67  mv my_hw_file.txt hw_file_1.txt
+   68  mkdir -p ~/homework/
+   69  cp hw_file_1.txt ~/homework/
+   70  rm ~/homework/hw_file_1.txt
+   71  tree ~ >> hw_file_1.txt
+   72  sudo snap install tree
+   73  tree ~ >> hw_file_1.txt
+   74  history >> hw_file_1.txt
